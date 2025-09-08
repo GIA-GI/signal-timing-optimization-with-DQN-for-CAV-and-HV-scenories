@@ -13,3 +13,5 @@
 5.	反映现实世界的交通现象，验证在周期范围内车辆跟车模型 通过队列长度作为特征值来验证精度，
 ![c6b8ae478e59c6f58d5a4d4ab0a07564](https://github.com/user-attachments/assets/b0b6a6b7-3b60-4bf2-a95c-bdb76b7dea38)
 #数据用来车辆在行驶过程中如何根据前车的行为（如速度、距离）来调整自身的速度和加速度，仿真真实世界尽可能重现数据，同时适用改变信号灯条件后的微观驾驶行为。
+<img width="352" height="630" alt="image" src="https://github.com/user-attachments/assets/8a13c739-6f89-4b0b-9dc4-03f848ce4893" />
+图片中数据完善就可以完成模拟配置，当然还包括信号灯相位配置
